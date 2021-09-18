@@ -1,19 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".User_center.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern="p2presources" type="PLAIN_TEXT" />
-      <mapping pattern=".env_docker_dev" type="PLAIN_TEXT" />
-      <mapping pattern="attach_3310" type="PLAIN_TEXT" />
       <mapping pattern="lock" type="PLAIN_TEXT" />
+      <mapping pattern=".env_docker_dev" type="PLAIN_TEXT" />
+      <mapping pattern="p2presources" type="PLAIN_TEXT" />
+      <mapping pattern=".User_center.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="attach_3310" type="PLAIN_TEXT" />
       <mapping pattern=".env_prod" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern="Dockerfile-dev" type="Dockerfile" />
     </extensionMap>
   </component>
